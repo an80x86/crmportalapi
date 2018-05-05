@@ -1,0 +1,10 @@
+/home/user/Desktop/work/crmportalapi/bin/Debug/netcoreapp2.0/crmportalapi.deps.json
+/home/user/Desktop/work/crmportalapi/bin/Debug/netcoreapp2.0/crmportalapi.runtimeconfig.json
+/home/user/Desktop/work/crmportalapi/bin/Debug/netcoreapp2.0/crmportalapi.runtimeconfig.dev.json
+/home/user/Desktop/work/crmportalapi/bin/Debug/netcoreapp2.0/crmportalapi.dll
+/home/user/Desktop/work/crmportalapi/bin/Debug/netcoreapp2.0/crmportalapi.pdb
+/home/user/Desktop/work/crmportalapi/obj/Debug/netcoreapp2.0/crmportalapi.csproj.CoreCompileInputs.cache
+/home/user/Desktop/work/crmportalapi/obj/Debug/netcoreapp2.0/crmportalapi.AssemblyInfoInputs.cache
+/home/user/Desktop/work/crmportalapi/obj/Debug/netcoreapp2.0/crmportalapi.AssemblyInfo.cs
+/home/user/Desktop/work/crmportalapi/obj/Debug/netcoreapp2.0/crmportalapi.dll
+/home/user/Desktop/work/crmportalapi/obj/Debug/netcoreapp2.0/crmportalapi.pdb
